@@ -10,6 +10,6 @@ An HTTP framework for the future.
 [Examples][examples]
 
 
-[getting-started]: https://github.com/thesbros/roote/blob/master/docs/getting-started.md
-[docs]: https://github.com/thesbros/roote/tree/master/docs
-[examples]: https://github.com/thesbros/roote/tree/master/docs/examples
+[getting-started]: https://github.com/thesbros/roote/blob/develop/docs/getting-started.md
+[docs]: https://github.com/thesbros/roote/tree/develop/docs
+[examples]: https://github.com/thesbros/roote/tree/develop/docs/examples
