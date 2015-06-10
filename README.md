@@ -1,4 +1,6 @@
 # roote
+[![NPM](https://nodei.co/npm/roote.png)](http://npm.im/roote)
+
 An HTTP framework for the future.
 
 **Note:** Work in progress. Not much test coverage or features.
