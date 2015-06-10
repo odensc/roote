@@ -1,0 +1,49 @@
+{
+  "name": "roote",
+  "version": "0.0.1",
+  "description": "An HTTP framework for the future.",
+  "main": "lib/index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "src",
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "babel --stage 0 -d lib src",
+    "prepublish": "npm run compile",
+    "test": "mocha --compilers js:test/babel-stage-0.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesbros/roote.git"
+  },
+  "keywords": [
+    "babel",
+    "es6",
+    "es7",
+    "routes",
+    "route",
+    "http",
+    "framework"
+  ],
+  "author": "thesbros",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thesbros/roote/issues"
+  },
+  "homepage": "https://github.com/thesbros/roote#readme",
+  "dependencies": {
+    "content-type": "^1.0.1",
+    "core-js": "^0.9.14",
+    "is-json": "^1.2.5"
+  },
+  "devDependencies": {
+    "babel": "^5.5.5",
+    "chai": "^3.0.0",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.2.5",
+    "request-promise": "^0.4.2",
+    "sinon": "^1.14.1",
+    "sinon-chai": "^2.8.0"
+  }
+}

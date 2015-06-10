@@ -1,0 +1,8 @@
+# node stuff
+node_modules
+
+# js compiled w/ babel
+lib
+
+# npm-debug, etc
+*.log
