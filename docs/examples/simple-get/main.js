@@ -2,7 +2,7 @@ import {Server, Route, Method} from "../../../src";
 
 // the path for the route
 @Route("/")
-export default class GetRoute
+class GetRoute
 {
 	// the HTTP method, e.g GET, POST, PUT, etc.
 	@Method("GET")
