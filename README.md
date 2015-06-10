@@ -1,5 +1,6 @@
 # roote
 [![NPM](https://nodei.co/npm/roote.png)](http://npm.im/roote)
+[![Build Status](https://travis-ci.org/thesbros/roote.svg?branch=master)](https://travis-ci.org/thesbros/roote)
 
 An HTTP framework for the future.
 
