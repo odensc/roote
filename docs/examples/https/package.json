@@ -13,7 +13,7 @@
 	"url": "git+https://github.com/thesbros/roote.git"
   },
   "author": "thesbros",
-  "license": "Unlicense",
+  "license": "Apache-2.0",
   "bugs": {
 	"url": "https://github.com/thesbros/roote/issues"
   },
